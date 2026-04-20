@@ -1,0 +1,119 @@
+{
+  "fetched": [
+    {
+      "expert": "rob-walling",
+      "video_id": "Sxn1ji7vYzU"
+    },
+    {
+      "expert": "rob-walling",
+      "video_id": "Sv1IO5mmTKY"
+    },
+    {
+      "expert": "rob-walling",
+      "video_id": "BgC-yiNYsR4"
+    },
+    {
+      "expert": "jason-lemkin",
+      "video_id": "vc0nITbOlos"
+    },
+    {
+      "expert": "jason-lemkin",
+      "video_id": "RqgjBMlQ6ik"
+    },
+    {
+      "expert": "jason-lemkin",
+      "video_id": "f0L_l4pc4rU"
+    },
+    {
+      "expert": "ross-simmonds",
+      "video_id": "HqKjnlBfcg0"
+    },
+    {
+      "expert": "ross-simmonds",
+      "video_id": "8lQfWBFF45U"
+    },
+    {
+      "expert": "rand-fishkin",
+      "video_id": "C9k5ygsCPvo"
+    },
+    {
+      "expert": "rand-fishkin",
+      "video_id": "xO_V-7IjkOE"
+    },
+    {
+      "expert": "rand-fishkin",
+      "video_id": "5JQvdLYvGZI"
+    },
+    {
+      "expert": "wes-bush",
+      "video_id": "sMaOzX7qmvE"
+    },
+    {
+      "expert": "wes-bush",
+      "video_id": "s7QLEp6hkwM"
+    },
+    {
+      "expert": "wes-bush",
+      "video_id": "w4lyPixues8"
+    },
+    {
+      "expert": "nathan-barry",
+      "video_id": "FRkOW2KWqnc"
+    },
+    {
+      "expert": "nathan-barry",
+      "video_id": "uctaJFXgNLo"
+    },
+    {
+      "expert": "nathan-barry",
+      "video_id": "sZGbQvX9AXY"
+    },
+    {
+      "expert": "denis-shatalin",
+      "video_id": "sB9m15rt0SY"
+    },
+    {
+      "expert": "dave-gerhardt",
+      "video_id": "-7drPzHJDPQ"
+    },
+    {
+      "expert": "dave-gerhardt",
+      "video_id": "UB8ZJ01N3bk"
+    },
+    {
+      "expert": "dave-gerhardt",
+      "video_id": "N5aoOGfkRVM"
+    },
+    {
+      "expert": "chima-mmeje",
+      "video_id": "6ku6KnhlRcU"
+    },
+    {
+      "expert": "chima-mmeje",
+      "video_id": "iTttoPGAJoY"
+    },
+    {
+      "expert": "chima-mmeje",
+      "video_id": "5fxd21bpBY4"
+    },
+    {
+      "expert": "noah-kagan",
+      "video_id": "atyrVhUz8eY"
+    },
+    {
+      "expert": "noah-kagan",
+      "video_id": "MolxsU1csKc"
+    },
+    {
+      "expert": "noah-kagan",
+      "video_id": "Qyb3R0vYgbo"
+    }
+  ],
+  "skipped": [
+    {
+      "expert": "ross-simmonds",
+      "video_id": "7_bFP2iVVN0"
+    }
+  ],
+  "errors": []
+}

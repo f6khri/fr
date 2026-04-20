@@ -1,0 +1,739 @@
+Video ID: s7QLEp6hkwM
+URL: https://www.youtube.com/watch?v=s7QLEp6hkwM
+============================================================
+
+Welcome to this episode of B2B
+Marketers on a Mission, and I'm your host. Christian Klepp,
+today I'll be talking to Wes Bush. He's the CEO and founder
+of ProductLed over the last eight years, he's worked hands
+on with more than 400 SaaS companies to help them unlock
+more than $1 billion in self serve revenue through
+product-led growth. He's also the author of the Product-Led
+Playbook how to build a product that sells itself. Tune in to
+find out more about what this B2B marketer's mission is. All
+right, Mr. Wes Bush, welcome to the show. Thanks so much for having me. You know, every now and then I
+do get Canadians on the show. And it's always a pleasure, you
+know, to have a chat about B2B marketing with folks in my neck
+of the woods. And you know, I say neck of the woods very
+loosely, because, you know, Canada, short of stating the
+obvious, is a pretty big country. Totally. Absolutely. So let's jump into
+it, Wes, because, you know, this is going to be, I'm sure, a
+pretty great conversation. But more importantly, I think it's
+one that's going to be interesting and relevant, right?
+And if we're just going to, like, start, I'm going to start
+with saying that you are on a mission to help B2B companies to
+unlock self serve revenue and dominate their markets with tiny
+teams, right? So for this conversation, we're going to
+focus on a topic that is, I would say, near and dear to you,
+which is how to build a winning strategy that ignites growth.
+Now I know for some members of the audience that might sound
+very top level and generic, but we're going to get into it here,
+and gonna get into the weeds, and then they'll understand why
+we're calling it that, right? So let's kick off the conversation
+with two questions, and I'm happy to repeat, right? So a big
+part of what you focus on is product-led growth. So why do
+you believe product-led growth is only half the story, and what
+should marketers do about it. Yeah, so for product led growth,
+like if you're not sure what it is, it is a go-to-market motion
+where you'll use your product to acquire users. You can use it to
+engage those users, to get them to value, also monetize them,
+and also use it to expand into account. So if you think about
+like a company, what does that look like? You'll typically see
+like a free trial or freemium motion, or something like that,
+where that's what the company is using to acquire more people
+come in the fold. And so from a marketers point of view, like
+this is really huge, because every single time I've worked
+with a company, let's say that sales-led, where they just have
+a demo led kind of motion, and then they launch a free trial,
+or freemium motion, right off the top same traffic, you're
+gonna have like 20 to 30% more people signing up. And it's
+nothing like crazy behind the scenes stuff. It's just like
+people want to try before they buy. And when we ran the study,
+we found out actually, 97% of people would prefer to try
+before they buy versus talk to someone in sales. And so you'll
+see that in your conversion rates as well, and everything
+else like that. So that's kind of like what product-led growth
+is, and then why it's really relevant for marketers to
+consider. And that's just talking about one aspect of it,
+where it's like from your call to action for your main product.
+But there's so many other ways you could leverage product that
+grows, like powered by x company. You might have seen
+that like with companies like Drift or Intercom and stuff like
+that too, which can really fuel growth and help you acquire
+customers with a very low customer acquisition cost. Yeah, no, absolutely,
+absolutely. I wanted to go back to something you said earlier,
+which I think is very interesting, and I have seen it
+a lot, right? There's even reports about that out there. A
+lot of users prefer to, like, yes, absolutely try before they
+buy. But they also want to have this I'm just going to say
+there's contactless, but there's also sales-less experience, if
+that's even a word, right, which means that they want to try and
+buy and conduct this research and make an informed decision
+without necessarily having to have a conversation with that
+sales person. Why do you think that is? It's a, yeah, it's like, why do
+we think that is, I don't know. Like, there's like, goes back to
+the psychology of like, okay, do you need to do this at the end
+of the day too? Like, the question I always ask companies,
+where it's like, when it comes to sales, is, like, is this
+person adding value or friction, and a lot of times when it's
+like, hey, the only way you can buy from us is if you talk to us
+and you go through our sales process, like, who has the
+leverage in that kind of relationship? It's the buyer,
+you would think, right? But what's changed is every single
+industry right now, especially in the software space, with AI
+booming and all that stuff too, is never been easier to create a
+product. So in every single market, there's tens or hundreds
+of different options. And so you lost your leverage. If you ever
+thought you had leverage, you're like, hey, we're gonna get
+people to buy the way we want them to buy. That's gone out the
+window, and you need to actually cater towards, hey, this is what
+buyers want. And I think it goes back to your question of, like,
+why do people want this? Well, they've been probably burned at
+some point. Like, I think as so many products I've personally
+bought where I'm like, you know, back when I was working on video
+art, for instance, we were purchasing Marketo, and Marketo
+is, like, this ultra powerful marketing automation platform.
+And I was like, on the website, and I was like, Oh, wow, this
+thing's so slick. It does so many things. This be great. I'm
+excited. And then we signed it, and then we got the product
+login. I was like, Oh, this thing's complicated. This is
+going to take a lot of work to just figure out how to set up
+this tool. And I was like, Man, I thought it was so much easier,
+better slick, like that marketing side and all that
+stuff. And so you just have to have one of those experiences to
+be like, You know what? There is this marketing, sales-led way of
+building a company. And then it, yes, you can build trust that
+way. It takes longer. But then there's this other way of like,
+Hey, listen, just here's the keys to the product. See for
+yourself if you like it or not. Just like, when you buy cologne
+or perfume, you're like, Oh yeah, I'm gonna, like, have a
+little sample of that, see if it smells good, and then you can
+try it on. And sometimes that's a completely different
+experience too. You're like, smells good in the bottle, but
+then you put on your skin, like, an hour later it's either washed
+off or like, I don't like that. And so if you want to build
+trust faster, you have to actually have that product-led
+experience. Sounds to me that you want to
+create a better customer experience, which is actually
+more surprise, customer centric. Surprise. Yes, absolutely. No. Totally
+agree with that. And I think we've all had those experiences
+right, where you didn't have the opportunity to try before you
+bought right said product or service, and then when you
+actually got it, you, for lack of a better description, just
+didn't have a very seamless, or perhaps even a horrible
+experience with said product, and just that cycle of having to
+go through customer support or get getting some help with a
+said, like, for example, software that that in itself
+probably was a nightmare, right? Oh, yeah. And they're like, Oh
+man, I'm gonna have to, like, spend all that time learning how
+to use this. Man, wouldn't it have been nice if we just
+purchased something easy to use? Exactly.. It's like. Exactly. You realize that you're like,
+man, it would have been right? Yes. But we didn't do that whole
+process. Exactly, exactly. Moving us on
+to the next question, which is still focusing on this topic of
+building a winning strategy, right? What are some of these
+key pitfalls that you think B2B marketers should avoid, and what
+should they be doing instead? Yeah. All right, so the very
+first question, like, when I go through like, how to build a
+winning strategy, it all comes down to like, hey, which market
+could you become the obvious choice in? Because in any market
+there's four buckets you're going to fall into. The very
+first one is, like, the scariest, hardest place to be in
+and get out of, which is just commodity zone. And when you're
+a commodity in your industry, everybody's just saying, hey,
+like, what's the best price? What can you do for me? And it's
+really hard to stand out and build a sustainable business,
+because your profits are just slashed. The second kind of
+bucket, a little better is your contender. And a contender does
+at least one or two things a little different to break out of
+the commodity zone land. And so that might be a unique feature.
+It might be a unique approach, way of doing something, and that
+is just enough to get them out of that commodity zone. So I can
+charge a little bit more make a little bit more profit. But you
+know what? There's this next group, which is above them that
+looks at what contenders are doing and likes to copy them.
+And these are the companies that are on the cusp of their market.
+So there's like three to five companies, usually in any market
+that's established, and the companies on the cusp, they are,
+you know, in aggregate, usually taking about, like 25% of the
+market share, and they are really competitive with each
+other. But they have built this scale. They've built a great
+go-to-market motion. So they have usually, like a contender.
+They do one, maybe two things different, but they also have
+that go-to-market motion, and then there's only usually one
+company like the Canva, the industry, the Zoom of the
+industry, the Slack of the industry, that becomes like this
+is the obvious choice. And so the like, core tenant of
+building winning strategy is, where can you become the obvious
+choice? And in order to answer that, you need to say. Hey, we
+are the obvious choice for, you know, this market, or this
+subset of the market who's looking to do Y, or this
+specific thing. And I literally just went through this with some
+other SaaS founders today. And it's fascinating, because it's
+like, let's not think like big vision here. Let's think like,
+the next year. Where can you win? We're realistically can you
+become the obvious choice in and even just that exercise alone,
+it's really simple, but it grounds you in the reality that
+in order to stand out, you need to be crystal clear on where
+you're going to win and make sure that actually aligns with
+what are your product's core capabilities. Who actually cares
+about that stuff too. Absolutely, absolutely, I'd like
+to jam on that a little bit further, if you don't mind, Wes
+like this... Yeah. This whole approach of like
+becoming the obvious choice in your market. And I know, for
+probably people outside of Canada, they might not know
+this, this brand, but there is a brand in in Canada called no
+name, right? Or it's basically like no brand name, right? And
+you can find those in like, No Frills and whatnot. So it's
+like, no name baking soda, no name cooking oil, right? And if
+I understood you correctly, you don't want to fall into that
+category, right? So you want people to, like, recognize your
+name, right? You want your name to be synonymous with good
+quality, good experience, and so forth. But here comes the
+question, because you said, become the obvious choice, right
+in your specific vertical, vertical or segment rather. So
+how do you, how do you go about doing that? And I know you named
+some of the steps already, but how do, how do you get SaaS
+companies to identify that, that segment where they can become
+the obvious choice? The very first kind of piece of
+that is the second question, which is like, well, now where
+do you play best? And this is really hard to do, especially if
+you're a product market fit stage, like, trying to identify,
+like, who is our best users and stuff. What I always say at that
+stage is like, hey, try out a lot of customers, just as much
+as they're trying to try out you see, which use cases resonate
+best. See what kinds of customers you work best. You get
+the most energy with. Because there's something like an
+unwritten rule of building a company which is like founder
+market fit. And I actually believe, like, that's a lot
+like, more important than product market fit, which is,
+like, do you actually like these people? Like, for instance, for
+me, it's like, I love working with SaaS founders. It gives me
+energy. It's fun. I can do this for the long term. Now, product
+market fit is like, just trying to understand who resonates best
+with your company and the products you do. So the next
+step where to play is like, Get really clear on your ideal
+customer. Now everybody says that not everybody has, like, a
+way of whittling it down. Now, there's three factors I really
+look at to see, like, is this an ideal customer or not? And the
+first one is motivation. So are they, like, insanely motivated
+to solve this problem? Whatever your product solves, that should
+be very high. The second thing is ability, do they have the
+ability to actually see success in this product, to get it set
+up? You know, if there's like, the no name buying chips, it's
+like, okay, most people have that ability to eat chips. We're
+gonna just put that for everybody. But for a software... One would assume. Yeah, opening up some of those
+bags is tricky, huh? Yeah, sorry, go on. Yes. And where some certain
+softwares like it's hard to figure it out. And so if you
+give like a marketer, this like technical web development app
+where you can create your own website. It's like, you know, is
+the developer going to be more successful with the marketer?
+And it's like, the marketer might be the big visionary, the
+creative here, but the developer actually would see better
+success setting it up, at least. So ability. The second thing,
+the third thing is triggers. So does this person get triggered,
+whether it's internally or externally, to to solve this
+particular problem. Now, if you have, like, zero triggers, but
+you're like, motivated and ability, it's like, you know,
+when they find out about you, eventually they're gonna be
+like, Oh my god, I gotta, like, get this right now. But you want
+ideal users and customers where it's like, this is pretty
+frequent. Like, hey, your customer acquisition costs are
+high, and they keep hearing this from their boss, the rest of
+their head of marketing, all that stuff, and they have that
+consistent awareness of this, and so they want to solve this
+problem. So those three things help you kind of whittle down
+who are your ideal customers and where you should play best. Fantastic, fantastic. So
+motivated, or motivation, rather ability and trigger or triggers,
+there might be more than one, right? Oh yeah, definitely there should
+be more than one for your ideal ones. Yes, yes. All right, I'm gonna
+move us on to a question where I'm gonna say it's one of those
+where you just have to unpack everything. So just imagine your
+travel in a bag, and you've just, you're just, you're coming
+back from a trip, and you've got to unpack everything, right? So
+here we go. In your book, you talk about this approach that
+you use that's called the Product-Led system, right? So
+how does this approach help scale product led businesses and
+help them become the dominant choice in their market? Yeah. So there's a lot to unpack
+here. Definitely. I got my bag. My suitcase is loaded. How long
+do we have? Off you go, off you go. As
+succinct as you can but I know there's a there's quite a bit to
+talk about here. Yeah, totally. All right, so
+when working with over 400 plus SaaS companies, what we
+distilled is there's these nine core components that if you want
+to build a product-led company, you have to dial these in. And
+what I learned after building the Product-Led system is
+there's actually a strategic order of how you could go about
+building and scaling your product-led business. And so
+especially if you're a marketer listening to this, this is going
+to be really, really helpful for you to even get in alignment
+with your founder and rest your leadership team to go through
+this. Because if they just come to you be like, hey, we want to
+be product led and get started on that landing page. You'd be
+like, Well, I had this great podcast. Have a listen to this
+part and get started. So the very first kind of phase
+of the Product-Led system is all about building a foundation that
+is unshakable when it comes to building your product-led
+business. Now the first piece we did touch on a little bit, which
+is your strategy. So what does that look like? And the reason
+that's first for building a product business is because at
+the end of the day, like, if your product led growth strategy
+isn't connected to like, how is your company going to win? It
+usually doesn't get much legs or resources or support, or you
+don't really build the right capabilities on your team to
+support it really well. Because what happens if you don't do
+this is a lot of times, companies will get started with
+PLG (product-led growth), and then it doesn't work, and then
+it's like, hey, wait a minute. Like this isn't functioning
+really well for us because we don't have the right
+capabilities. And so that's that's one thing we got to think
+about quite a bit. Now, the second piece of this,
+once you get your strategy built out, is you have to understand
+who is your ideal user. And this is not to be confused with your
+ideal buyer, your ideal like, the difference between the two
+is the buyer is the one actually purchasing that the decision
+maker, whereas your ideal user is the person who's actually
+using your product. And so you need to understand exactly who
+that is. Go through those same three things we talked about,
+like motivation, ability, triggers, and more importantly,
+you also got to understand what is ultimate success for this
+person, like, what's their end game? What does that look like?
+And we break it down into like these five main stages, what
+that goes through like for your user journey. And you got to
+understand that very well. But even that alone, when you break
+down, like, I'll give you an example for marketers, it's like
+when you think about the stage in the user journey of just
+signing up. Okay, what are all the challenges that somebody's
+gonna encounter or try and go through in order to sign up? It
+could be simple things, like, hey, we just have, like, too
+many form fields. It could be something a bit more
+complicated, like, Hey, I don't trust what this site is like. I
+give you an example, one of our product led clients. Like, they
+have a company that, basically, if you hook up your AWS (Amazon
+Web Services) or your cloud servers, they will run all these
+reports and help you identify, like, hey, there's these errors
+here and all that stuff. Now, the biggest objection that the
+founder didn't know that was there was that if I give you
+access to that, like you have the keys to our entire app,
+everything, if we if, like, something goes wonky here, like
+our app could get shut down all these, like, scary things. So
+trust was huge. Now how do we build that? Well, we got to
+understand, first off, what is that challenge, and then we can
+come up with some solutions of what that looks like. And so
+when you know your user that well, you can be like, this,
+Jedi, of like, Oh, I know you're struggling with that. Like,
+here's the solution ahead of time, and then you actually
+confront a lot of those objections. And so that's the
+second component. Got to understand your user better than
+anyone else in your market. Once you do that, then you can
+finally move on to the third step, which is, what is your
+free model? What does that look like? The best product
+companies, they all have a free motion that they lead with, and
+it's something you can try before you buy. But the biggest
+challenge here is most companies are not intentional with it.
+They just give away something random, where they slap on a 14
+day free trial. It's like, Hey, we're product-led, yet it
+doesn't solve a meaningful problem. It doesn't lead to a
+transformation where it's like, hey, I went from, you know, Wes
+1.0 to Wes 2.0 like, when I think about ChatGPT and I
+started using it, there is a notable difference in
+productivity, because I can just brainstorm ideas faster. Even
+writing the book was actually a lot faster, brainstorming so
+many different ideas, even for the Product-Led system, it was
+called the product led method before, method before that, then
+I found out it's a system. I was like, oh, okay, so like, a lot
+of these different things that just come out of it. Thank you. ChatGPT. Sponsored by ChatGPT, so, yeah,
+that's the third step, is just understand, like, what do you
+give away for free? Because you best free motions all have that
+transformation in common. And so those first three components are
+all about that foundation that you must have. And phase two is really all
+about your go to market motion. So what does that look like? How
+do you get customers to find out what you do and sign up for your
+product and actually upgrade. So the core focus for phase two is
+all about, how do you unlock self serve customers, customers
+that can just sign up, get the value upgrade without talking to
+you. And in order to do that, there's
+three things you gotta have. First one is you gotta have an
+irresistible offer that is something that is hugely
+compelling for them. You speak to them, since you know your
+ideal user very well, you're calling them out. Like, for us,
+it's like, four SaaS founders, uh, hello. They're like, Oh,
+it's me. And you actually speak to them, and that's really
+compelling. And based on your strategy, you're also pulling in
+that strategy into your offer. One of our clients, PromoTix,
+for instance, they're going up against Eventbrite, and their
+strategy to win against Eventbrite is literally two
+things. It's like, we're cheaper, 20 or 40% cheaper. And
+then second piece is we actually give you really good marketing
+tools to sell more tickets. That's it. That was like their
+strategy. They just mentioned that on their home page, and
+they saw 40% more sign up, so the exact same traffic. So when
+you do this right and you have a good strategy, your offer should
+be a lot more compelling. Not to mention you can also put in that
+new free offer that you have from the model component, which
+makes it compelling. So once you get that, you'll have more
+signups from the ideal users, not just more signups in
+general. That's an important distinction. And when you have those
+motivated people signing up, then you can move on to the next
+component, which is the fifth one, and that's onboarding, and
+that is really where you go through. How do we get people to
+value as soon as possible? And I always say, like the first seven
+minutes is insanely important because there's a little
+pandemic in product led companies, which is 40 to 60% of
+people will just not come back after that first time. And so
+you really have to guide people to the value as soon as
+possible. Now, because you're smart, because you've gone
+through the user component, you know exactly, okay, what is end
+the end game for these people? What does that success look
+like? And you broke it down into every single stage you should
+know, like, what is the first strike? What is something where,
+if we get people to this moment, they're like, aha, yes, I like
+this product. And then it's really about in order to do
+onboarding well, it's creating the fastest path to get to that
+specific point. And when you do that, and you get people to
+value, what I believe, as far as product led companies go, is
+we've done our job. That is a great product led motion. We've
+served before we've sold people, we've given them value. But in order for this model to
+work, we got to actually have pricing and people upgrading.
+But this is the kind of sixth step, which is we've got to go
+through how to make that easy so it can be a self serve
+experience, so somebody could look at our pricing page in five
+seconds understand, like, hey, this is the right plan for me.
+And there's a lot we could dig into here, but the main thing
+I'll kind of give a shout out on is you need to identify, like,
+what are your value metrics? Like, if you look at email
+marketing platforms or sometimes even CRMs (Customer relationship
+management), it's, you know, per contact. And if you have 10,000
+contacts, here's the price. If you have 500,000 contacts, it's
+it's a bit more. So you can understand that relationship
+pretty quick, and that's important for your product
+company. So you can start somebody off on, let's say, a
+$50 per month plan, and grow it to something like $5,000 per
+month and but that only happens if you have really dialed in
+value metrics and understand the pricing side of things. So
+that's the first six components, first two phases, anything you
+wanted me to dive in on or go on? I mean, this is really dynamite
+stuff so far, and I'm gonna do a recap once you get to number
+nine. But, like, there were so many things that you said that
+resonated. Like, for example, having an irresistible offer, I
+mean, just a cult Marlon Brando, I'm making an offer you can't
+refuse, right? Like, but, um, I think on the topic of
+onboarding, do you, from your own experience. Do you see that
+that's a that's an area where a lot of SaaS companies struggle.
+Because, you know, you always talk about churn, and then
+Customer Success gets involved to make sure that the customers
+don't churn. But some, but sometimes, they enter at a
+little bit later stage of the entire process, and by that
+point, customers will say, you know what I'm actually done
+where we've actually signed a contract with somebody else, but
+like, over to you, like, what's, what's your experience been? Oh, I think it's one of the
+biggest problems that a lot of companies struggle with. One
+caveat, though, is a lot of times they think it's the
+biggest issue, but it's not. I'll give you a couple examples.
+So I was talking to this one founder, and he had a low, free
+to paid conversion rate, which for many product led companies,
+like, it's usually the free to paid conversion rate that drives
+them crazy. They're like, It's low. Why is it low? It's
+onboarding. It's hugely the first thing they come to.
+Because usually it needs a lot of work. But then in this case,
+that wasn't the scenario. So I like heard what he was trying to
+do to fix the free to paid conversion. He was like, I'm
+going to spend the next quarter fixing our onboarding. This is
+exactly what we're going to be doing. And then I went to his
+website, I was like, now tell me, what do you do? I don't
+understand. It's something AI enabled. But like, what the heck
+do you as nicely as possible in my Canadian accent. And so he's
+like, Oh, we do this. And I was like, oh, okay, yeah, yeah, I
+get that. I get what you told me, but I did not get that from
+your website. So here's what was happening is he was having
+people sign up, and they would go through the onboarding and
+they'd be like, not actually seeing value, because they, one,
+were not the right people, because he wasn't speaking to
+them. Two, they didn't actually really know what they were
+signing up for, so they had almost next to zero motivation.
+And so of course, they would just like, bugger out halfway
+through, because they're like, I'm not really that committed. I
+don't really understand what this product is, unless you have
+a lot of extra time. And what was interesting about that too,
+is he, if he was talking to the people, he would be able to
+close them and upgrade them. So there was this weird thing going
+on where it's like, okay, whatever you're saying, buddy,
+it's important. And whatever you're showing them in the
+product is very important too, but when you're making this self
+serve, that's not quite happening. And then the the
+other most common thing where they think it's onboarding is
+somebody signs up for free. They can, like, click around, they
+can do stuff, but they can't actually experience any
+meaningful transformation because they've gated it because
+they didn't understand, like, from the model component, like,
+what is something we got to give away that actually gives people
+a power up in life. It has to feel like there's the before and
+then there's the after of this product. And if it doesn't have
+that, if it's just bland or I just sign up for another app,
+and now they're bombarding me with emails and all this fun
+stuff, and I've got zero value. Of course, I'm not going to
+upgrade, and that was a long winded way of saying there's a
+lot more that goes into free to paid conversion rate than just
+the onboarding. But you are right that most people focus
+almost too much of their time, I would say, on fixing the
+onboarding, when the foundational elements before it
+actually matter a bit more, and just most people don't think
+about those. Absolutely, absolutely, yeah,
+no, in your best Canadian accent, you mean, like, sorry, So sorry. What do you do?
+(laugh) But you mentioned, you mentioned
+a couple of things, but the one that jumped out at me is part of
+it, is the messaging, or the way that you package it, right?
+Because I've been on a couple of those websites too, and I scroll
+up and down. I go back up to the above the fold of the website,
+and I read through all the copy, and I scroll down again, and I'm
+like, okay, yeah, still don't understand. Go back up. And I go
+through it two times, and I'm like, I still don't quite
+understand what the SaaS company is doing, right? So to your
+point, right? If that's not clear in those first couple of
+seconds, right, because you've got a you've got a window,
+right, a very short window of time in which to grab people's
+attention and to communicate what it is you do and how it
+benefits them. And if companies can't do that, you know, you're
+going to see a bounce rate. People are going to drop off and
+won't have you. But the other thing that you said was the
+before and after, right? I, in fact, as I was taking my notes,
+I put like, these massive exclamation points right next to
+it, right? Because there's many companies out there. That don't
+communicate that enough, right? That transformation that they
+are not necessarily aspiring to bring what they probably have
+already brought, but it just doesn't come across in anything
+that they communicate. Yeah.. And it's very common for
+that. And one thing on the marketing side that, like a lot
+of people resonate with and think is like, once you hear it,
+you'll be like, oh, yeah, that's That's true. Sales-led companies
+can actually have much shorter whether it's home pages, product
+pages and all that stuff, that can keep things a little more
+vague, high level focus around the value prop, but then just
+get people onto the call, where they can deliver a lot more of
+those messages. That gets people to understand, okay, this is
+exactly what it is. This is how you help me. Whereas product led
+companies usually it's a bit longer, but that's why product
+marketing right now is booming, especially for a lot of product
+led companies, because it's a unique capability you have to
+develop. You got to make something really, really crystal
+clear, like, what the heck it is? What does it do? How it's
+going to enable you? And that can't just be left up to, oh
+yeah, we'll catch them on the call. If they don't understand
+what it is, it's like, no, no, you won't ever see them. They're
+probably going to be anonymous visitors on your website before
+they even sign up, and you just won't have a chance or a second
+bat with them. Absolutely, absolutely. All
+right, Wes. We've been keeping the audience in suspense. Now,
+what are the last three parts of that process? So the first one all about
+unshakable foundation. Second phase is all about, like,
+unlocking self serve customers. Now, once you've graduated at
+this stage, the last phase is all about, how do we unlock
+exponential scale? And in order to do that, now that we have the
+inner workings of a product led motion, with the offer, the
+onboard and the pricing, now we gotta look at your data and
+understand where is the biggest bottleneck. We have to
+understand that at every single week. We gotta know, okay, this
+is where most people are dropping off. This is where
+they're getting stuck. And so the main metrics we look at for
+a product-led company is number of, like, unique users that are
+on their website, number of ideal signups. What does that
+look like every single week? How many of those signups got to,
+you know, successfully onboard, go through the onboarding setup,
+and then how many of those people got to what we would
+consider a first strike, something like tangible first
+value moment, aha moment, whatever you want to call it. We
+just like first strike, because it goes with our framework of
+the bowling alley framework. And then once they get the first
+strike, how many of those people get to a key usage indicator,
+which is experiencing the value of the product at least two,
+maybe three times. And the reason why this one's really
+important is because what you're trying to build here is a bit of
+a habit, and it's not just enough to get, like, one quick
+aha moment. Like, yeah, that was good. We want people to come
+back again and again and be like, oh, yeah, I created, you
+know, a new graphic, or something like that. Canva is an
+example where you're like, I'm really getting this. And then
+how many of those people who hit that key switch indicator
+upgrade? And so with just those simple go to market metrics,
+there's a few others, like business health metrics and your
+north star metric that we also go through. But with that, you
+can easily find out where is the main constraint of this business
+is it signups, which is holding us back? Is it, you know, not
+enough people getting to value which is, like you mentioned
+with onboarding, it's actually one of the biggest problems. But
+what's unique is every one of those metrics should have a
+unique owner. And let's say if this week, you know, you own the
+metric for first strike, and not enough people are getting to a
+first strike in the product. You actually become the mini CEO on
+the leadership team, and you're saying, Hey, listen, everybody.
+I know I'm holding everybody back. We got to solve this. I
+got to enroll your help. And even if other people have high
+priority stuff on their plate, they have to support you if you
+need their help, because it's the company's bottleneck, and
+that alignment and that focus around the data side of things
+creates insane focus, which you need, because if you're
+scattered everywhere, you're like, okay, it doesn't matter.
+You know, Christian's got it, I think, but it's like, Hey, if
+you need your help, drop it. Drop whatever you're doing. This
+is the main priority, and companies that do that grow way
+faster. But it's not enough to just have the understanding of
+like, Hey, this is a big bottleneck. The next component, this eighth
+one, is all about your growth process. So how do you
+understand like, Okay, if, let's say first strike is the biggest
+bottleneck, how do we understand like, we should do this
+experiment versus that experiment, or we should do that
+or this, and you got to have an experimentation framework to
+actually understand, hey, what do you prioritize? What does
+that look like? And that cadence and rigor really helps build
+discipline so you're not just like, oh, the CEO said this
+idea. I think, yeah, I don't want to get fired. Let's do it,
+meanwhile, you know, it's a shitty idea, like, it's like,
+okay, let's not do that, but at least you can go to them and be
+like, is this high impact? Is this low impact? Oh, it's low
+impact. Okay, so maybe we don't do that, and you actually have a
+process for that. Now the last component is all
+about team. Now, the reason this one's last for a product led
+company is just by fact that most of the issues that would
+have arisen with the data and the growth process, you would be
+able to find a solution with your product, because your
+product should eventually become in a product led company, your
+best marketer, your best sales person, your best customer
+success rep, all those things in one and it's only when you hit
+certain problems, like, I'll give you an example, where it's
+like, okay, we, for the last month, have been struggling to
+get enough signups. We've tried all these experiments, but we've
+actually shown a lot of promise with, let's say LinkedIn ads,
+believe it or not, and it works. Now we want to scale that up.
+It's like, okay, let's look at a maybe it's a LinkedIn ad
+specialist, contractor, somebody on the team full time, and
+that's when you can start to look at, okay, we need to bring
+people into this equation to scale this up, and that allows
+you to keep a lean team and highly profitable business at
+the end of the day. That was a handful. But thank
+you for distilling it down to these nine points today... I unpacked big. You sure did, my friend. I think
+those are probably five suitcases instead of one. Yeah. But let me just quickly recap
+this for the benefit of the of the audience, right? So number
+one is building an unshakable foundation. Second one is, who
+is your ideal user and don't confuse that with the buyer,
+right? The third one is, what is your free model, also designing
+something that solves a meaningful problem, right? Then
+you get to the GTM motion, or go to market motion. Sorry for the
+abbreviations, folks. Having an irresistible offer was number
+four. Number five, which we spoke about at length,
+onboarding. Number six is pricing, having the right plan.
+And there's also clearly some value metrics involved there.
+And then that last stage, which is unlocking exponential scale,
+is looking at the data, identifying the biggest
+bottlenecks and solving them. Number eight is the growth
+process and having an experimentation framework in
+place. And number nine, the grand finale, team. Great summary. You got them. All right, fantastic. Now here
+comes the next question for you, Wes. So we've gone through these
+nine points of these nine core components in the product led
+approach. And so for the sake of providing the audience with
+actionable tips, if there's somebody out there, like a
+product marketer, or somebody in SaaS that's in a marketing role
+that's listening to this and doesn't have 12 months to
+deliver on results, right? And needs to act upon this right
+away. What are like three to five things that these folks can
+do right now to build a winning strategy? Yeah. So the first thing I would
+recommend for you to go through is just analyze, like, where are
+you at today on each of these nine components? So we actually
+built a free product-led assessment, not trying to pitch
+it here. It's just super helpful when it comes down to like,
+okay, what are those specific questions? So each of the nine
+components we have, like, a question. You can rank yourself
+from a 1 to 10 on and like, for instance, your ideal user like,
+Okay, on a scale of 1 to 10. Do you know your ideal user better
+than anyone else in your market? And I was like, if it's 10 and
+10, it's like, fantastic. You shouldn't need to focus there
+that much. But we all know most people would be like, maybe 7,
+6, 4, who knows and based on the order of them. So if your
+strategy, your user, your model, is low. You have to start there.
+And although you might want to be like, Oh yeah, our
+onboarding, let's focus there. Everything builds off of each
+other. Those nine components have an order. And so if your
+earlier components are really weak, the rest of your product
+led strategy is weak, and there's no amount of like, okay,
+let's just add more people to the equation that's gonna help.
+I always say, like, nail the process before you scale it. And
+that should be true. That's why it's the last kind of lever you
+pull in your business. And so yeah, for many companies we work
+with, it's usually like, tightening up your strategy, and
+then it's getting a little bit more clear on Who's your ideal
+user, so you're not spreading yourself too thin. And then it's
+sometimes like, the model might be okay. We don't always have
+to, like, come in guns blazing. Like, let's switch it, because
+you're working with Product-Led. Sometimes it's just like, Okay,
+it's good enough. It's not perfect, but it's like, 7 out of
+10. So let's move on to the higher leverage things that are
+going to actually show that, hey, we made an impact here,
+which a lot of times that's your offer as your onboarding or your
+pricing, because those go to market levers when you go
+through and implement and improve them, you that's where
+you see the revenue at the end of the day, and then the data
+and process side of things in the product at playbook, I
+outline some meetings that you should install. So, like, on a
+weekly basis or a monthly basis, quarterly basis. How do you
+structure meetings so that you create the rhythm in your
+company to review some of these things so it's not static. Like,
+yeah, we updated our offer last September, I think, is no, let's
+review that more frequently and see what we can do to improve
+that. Dynamite stuff. Man, dynamite
+stuff. And absolutely, on the topic of data and processes and
+having those regular meetings, I think those regular meetings, if
+you have a fixed agenda and you have fixed goals and objectives,
+it helps keep everybody accountable. It's not something
+that just fades into the ether, right? Totally. Because people are going to be
+like, okay, where we're at, where are we at? What do we need
+to do? What issues are we facing? What do we need to
+tackle? Where do we need the validation, the approval? Where
+do we need support? What are we going to do next? What are the
+next steps? Wrap up the meeting with next steps, right? Instead
+of just like, all right. Well, thanks, everyone. Like... Totally. And if anybody wants
+like those templates too, for like, how to run those meetings.
+I know we talked a bit about this on our last chat, too, but
+everybody who's listening gets the free product led playbook.
+If you want the audiobook for that, that's my gift to you, so
+you can just go grab it at productledgift.com and then that
+has the templates as well that you'll need to actually run
+those meetings. Fantastic, man. Fantastic.
+Christmas came early. Thank you, sir.
+It did. Very, very generous. Very
+generous. All right, Wes two more questions, and I'm gonna
+let you go, right? So here comes the bonus question. I've been
+thinking hard about this one for a bit, but, um, let's just say
+that after this interview, right? The interview wraps up,
+then suddenly you get a call, and it's one of these tech
+billionaires that you that you follow, or that you admire. I'm
+not going to name names, just take your pick, right? And he
+says, Wes, you know what? I read your book, great stuff. I'm
+gonna fund your next SaaS project, whatever you want to
+do. All right, so here comes the question, if that ever happened
+to you, what kind of SaaS would you build? And why? Interesting question. Because
+there's, like, you know, the highest, you know, hottest kind
+of ideas you could think of, or the biggest market potential.
+And then there's the stuff that I know that would be a great
+product. This is the reason why I'm
+asking the question. I consider myself like there's
+the fox versus the hedgehog? Yeah, I'm totally a hedgehog.
+Man. Okay. So it would literally just be
+doubling down on the Product-Led system, turning that into its
+own software product. Because, like, for instance, with the
+strategy and everything, after helping hundreds of companies do
+it, it's like, I know pretty much, like, what's a good
+strategy and stuff like that, pretty quickly. And it's like, I
+could train an AI on that and get people 80, 85% of the way
+there. So yeah, I would definitely just make it way
+easier and faster to implement part of that system. That'd be
+my favorite thing to do. Fantastic, fantastic. Great
+answer. Wes, thank you so much for your time and for sharing
+your expertise and experience with the listeners. So please
+quick intro to yourself and how folks out there can get in touch
+with you. Yeah. So if any of you want to
+learn more about product led growth, you can easily find me
+at Wes Bush on LinkedIn. And also, if you want to learn more
+about some of the programs we have to help you level up and
+scale up PLG, you can just check out productled.com. Fantastic, fantastic. And we'll
+be sure to drop those links in the show notes when this episode
+gets pushed live so once again, sir, thank you so much for your
+time. Take care, stay safe and talk to you soon. Thanks for having me on. All right. Bye for now.

@@ -1,0 +1,181 @@
+Video ID: BgC-yiNYsR4
+URL: https://www.youtube.com/watch?v=BgC-yiNYsR4
+============================================================
+
+(soft upbeat music) - And we are live welcome to MicroConf Remote 2.0 Super stoked to have you here. Joining us today, we have
+three action packed days of Early Stage SaaS marketing. We're gonna be looking at what we're calling the
+cheat codes, strategies tactics for getting
+folks into your product in that early stage where you're pre 10 K maybe it's your first 10, Maybe it's the first 50, maybe it's your first a hundred customers but I'm really excited to dive into this. We're gonna be covering all
+kinds of early stage tactics. And of course, in true MicroConf fashion, we're bringing founders
+or subject matter experts on the show to talk about
+things that they have done either for themselves or for their clients and to bring as many super tactical tips and the results and the
+learnings and the pros and cons and what they would do
+differently during, you know the next couple of days. So I'd like to start us off
+by thanking HEY and Stripe. They're our headline
+partners for the year. They were headline partners in 2021, and we love working with HEY and Stripe because they're such fixtures
+in the MicroConf community. HEY, obviously, a product out of BaseCamp. They're an email service and Stripe needs no introduction. I mean, they are the
+payment service for SaaS and for the internet. And I really wanna thank them
+again for being our partners and allowing us to
+produce events like this. So if you haven't already, I'd love you if you could, could @ mention them on Twitter there. @HEYHEY, and @Stripe. And just thank them for
+their headline support of MicroConf here in 2021. I'm gonna be talking for about the next bit
+about about 15 minutes. To give you my take
+and my thought process. Maybe a couple of mental frameworks around Early Stage Marketing and about why Early Stage
+Marketing is different than Later Stage Marketing. We really decided to focus this event on Early Stage because
+when you read books, really good books like
+Traction by Justin Mares and Gabriel Weinberg that have a lot of marketing tactics in them. And these are amazing. They're super helpful, but
+a lot of these books ignore that there's a huge difference between, let's say pre product market fit marketing and post-product market fit. If you're doing $50,000 a
+month, your marketing budget and your marketing approach
+looks a lot different than if you're doing 500 a month and you only have five customers. And so what I'm going to talk briefly about why Early Stage
+Marketing is different. We'll talk about why it's
+pretty, pretty hard actually. And then do a couple of frameworks that I have been using over the years. And then we'll finish off
+with kind of an overview of what the next three days
+are going to look like. All right. There's just a couple of that. Perfect. So in SaaS,
+you need to figure out a lot of things when you're
+building a product from scratch and this is just a
+totally incomplete list. It's probably a third of the things even high level that you need to know. So what features to build how to build them when to build them, how you price this thing, how what's your positioning
+should be, your marketing copy, where you find new customers, how to sell this product,
+how to onboard people how to make sure that they
+refer others, how to make sure that they stick around
+and on and on and on. I could probably rattle off a list of 20 off the top of my head. When you're starting out, all of these are a blank slate, and it's like a really complex equation that you don't have any of the answers to. Once you get further along let's say you do have product market fit. Let's say doing $40 or
+$50,000 a month, oops I'm using my keyboard to advance it. Apologize. Let's say you're doing
+$40-$50,000 a month. Really, a lot of these
+things are figured out. By the time you're doing
+mid six figures of ARR you have a general idea
+of what features to build. It's always a question,
+but you have an idea. You probably have a process
+of kinda how to build them and how to think about them. Your mental model. Pricing is usually settled even though you revisit that
+every quarter or two quarters. Positioning a marketing copy. If you've, you know, again,
+if you're doing 50 K a month you figured something out there. Where to find new customers is always a challenge and
+always a lot of experiments. But a lot of these
+other things are settled as you get Later stage. And really the long-term
+game becomes building out your team. If that's something, you know,
+if that's a goal of yours and then where to find new customers. And so that's what I'm talking about the differences Early
+Stage, too many variables. Later Stage, simpler. So I like the analogy I use is, here's a pretty simple equation. While we have two variables
+and only one numeric, or we have seen this in
+a later stage algebra. And it's like, okay, I
+know that I can solve for a in terms of X or X in
+terms of a, not that hard. But when I get to an equation like this this is more of the Early Stage Marketing without a lot of things you don't know if it's your lead
+sources, that aren't good. You don't know if you're
+not selling it well, you don't know if your pricing is off you don't know if your positioning is off and that's why it tends
+to be pretty difficult. So with that in mind, I wanna talk, I wanna talk three points about how you can find your first 10, 50 or a hundred customers. And these are, let's say
+words of advice/frameworks that I've used over the years. And that I think you should keep in mind about how to find those initial customers. First thing is something I don't think that's talked about enough, and it's this idea of the pendulum swing. And let's say you start on
+the left with new customers and you've pre-validated your idea. You've said, I'm gonna
+build this crazy widget that's a landing page that sells things and has email marketing built in and is designed for SaaS founders. And it does lead magnets too. And you get 10 people to say that we're willing to pay
+50 bucks a month for that. And so you do start with
+new customers on the left. Well, now you have to go build features. So you need to swing that pendulum over. And if you're a single founder you're putting that engineering hat on you're going away from
+the marketing and sales. And you're saying, okay now I'm gonna build these things. And you go in the basement
+for two months, three months no more than six months people. I've been saying this
+literally the first time I said this was in 2008, we were looking back at some transcripts. If you're taking longer than six months to get out of the gate and get people actively using your product you're probably making a mistake. (coughs) Excuse me. I find between four and six months especially working side
+nights and weekends. There's a big drop-off in people who actually make
+it to that launch point or who make it there with
+enough energy to continue. Because remember launch
+is not the finish line launch is the starting line. You spend those months
+just to get to the start. Okay? So back to our story. We build some features and then we show it to our
+customers or prospects. And then they say, well, I
+still need some additional work. I need this. Doesn't quite do it for me. It's not actually worth $50. So you swing back to building new features and then hopefully you put
+your marketing hat on again, you build a new features
+and then you swing back and you drive more traffic. This is one of the hardest balances especially as a single founder. It's still hard, even as a small team, cause you never seem to
+have enough resources to do as much product and as much marketing as you want. And again, in the early days, especially, you're also trying to figure
+out all the other things I had on that additional list. And as it gets later, this just
+becomes your tick tock back and forth, your pendulum swing off. We're gonna build some new features and we're gonna see what
+our existing customers and then we're gonna drive new customers and see how many of them, you know, how many of
+these features resonate with the people. And as you, as you get further along, this becomes less and less of an issue than in the early days. Oops. Once again, I'm using my keys. All right. Second thoughts. So I have three thoughts
+that told you around this. We've heard, 'do things that don't scale.' Paul Graham said this in a famous essay. I think it was called
+How to Start a Startup back in, it was probably 2008, 2009. Do things that don't scale is good advice. And in fact, over the next couple of days, we are gonna look at several things that don't scale. But I would say this, I
+would add this to that quote do things that don't scale while you are looking for things that do, because if everything
+you do doesn't scale, if everything is an AppSummo launch or a product hunt launch or a one-time joint venture,
+where you get an email blast then your business will grow
+and it will constantly plateau. But if everything you do is further out if everything is SEO and you know long-term partnerships, long-term enterprise contracts that take six months to close, then you're not gonna
+stay alive long enough in terms of, of revenue and profit to close in on these things and to take advantage of
+these long-term deals. So that's what I mean when I
+say do things that don't scale and we're going to be
+examining a few of those like product hunt, and AppSumo, these are things that don't scale, they're kind of one-time bumps while you look for things to do, which are things like
+search engine optimization, which we'll be looking at and partnerships, which
+can kind of go both ways. The partnerships that can
+constantly be free things are the ones that long-term
+scale really well for you. All right. So that's number two. Third thought I wanna leave you with is something I've talked about before, but it's in these early stages if I were starting from scratch today. It's what I did on my last
+two products HitTail and Drip and it's what I call
+Concentric Circle Marketing. And what I realized is
+I was calling it this and then the book Traction came out and they have a, it's
+a different concept , it's related but it's a
+very different concept but they call it Bullseye Marketing. And that is so much of
+a better name for this because essentially if
+you don't know what, you know, concentric circles are we have a circle in the
+center, it's like a dartboard and then you have a circle around it. And then a circle that's slightly larger around that and around that. So those are concentric circles. So in this list from top to
+bottom, I have your audience which is that smallest concentric circle and the ones that are
+easiest to reach for you and then your network, which
+are like maybe, you know colleagues and other folks
+that, you know really closely versus an audience like, let's say you have a
+podcast or a social following. You probably can't reach out via email to everyone on your podcast
+and your Twitter feed. Right? So those I would consider
+audience versus your network is where I can drop a line to you know, frankly, all the speakers
+in this event, you know, I could drop an email too. I would say that they're in my network. So that's the second concentric circle. The next one is if folks in
+my network have audiences and then the fourth concentric of course is just cold audiences. And so as I think about marketing especially in the early
+stage, I would often sit down and brainstorm who in my
+audience or really not who but it's, how can I present to my audience the offering that I'm about to launch. the HitTail, the Drip, the
+MicroConf Remote, whatever it is how can I convey that to folks on Twitter or via my podcast or via
+my email list or whatever, wherever else I have reached how can I convey that to them in a way that is helpful to them, adds
+value, maybe it's educational. Maybe it's just being transparent with, hey we're doing this
+thing behind the scenes, but it's a way to communicate that and get them excited and
+interesting in what I'm doing. Okay. So that's my audience. My network, I started thinking if I'm gonna launch email service provider I think who in my network
+do, I think maybe is unhappy with their current use
+of MailChimp or a AWeber. And how could I maybe drop in a an email and say, hey, this is what I'm building. I'm curious if you wanna try it out. Or you know who in my
+network could potentially moving onto the third concentric
+circle, could potentially has enough of an audience
+that not only do I want, Hey maybe would you be
+willing to try this out? But would you be willing
+to have me on your podcast to educate your audience on this topic? And it's not having on your podcast to talk about my ESP it's to
+talk about email marketing and to talk about how it's not dead and how it's the, you know,
+there's a story there, right? It's the next phase of email marketing email marketing 2.0, it's
+marketing automation. It's tagging, it's automations. I mean, this was the
+playbook that I ran with Drip and you can do it too, right? Even if your network is not big even if you only know a handful of people that's why you come to events. Like MicroConf Remote,
+where you can wander around gather.town and connect with people. That's why you should be
+in MicroConfConnect.com. We have approaching 2000 founders. That's what I mean by network. I'm not a networker, I'm an introvert. And I sit at home and I
+read my graphic novels and I talk to my kids
+and play tabletop games. And yet I have a pretty
+damn extensive network in this space. And you can too, if you just show up, show up and you offer value to people, and the more value you
+offer to people magic, the bigger your network gets. So again, turning back to that third step, your network's audiences, like who do you know, who has an audience who could potentially,
+you could provide value to and potentially spread the word. And then last is Cold audiences and their cold audiences scale amazingly. But they're the ones that tend
+to be harder to make work. This is of course everything else, right? It's organic search. It's any type of pay-per-click
+ads or other advertising, or you know, sending folks to
+a landing page to do webinars. I mean, cold audiences are
+how you scale big time, but in these early stages, I would really be focusing
+on these first three to see what kind of traction you can get. So let's take a look
+at MicroConf Remote 2.0 our early stage cheat codes
+that we'll be looking at over the next three days in
+our five keynote sessions. So this is the first of
+six, in that respect. We are gonna be looking at AppSumo. All right. We're gonna be looking at AppSumo deal. I'm gonna have Ruben Gomez from Dock sketch who ran an
+AppSumo deal back in mid 2019. And he's gonna be talking
+about the things he did, right? And the ways to think about
+whether or not you, you know your app and your situation
+is a good fit for that. As well as open the kimono on the number of support requests, the number of sales, the net amount of cash that Docsketch made from doing this deal. So I'm really excited about that session. I believe that is tomorrow morning In addition we're going
+to be covering ProductHunt how to launch on Product Hunt. Well, and this again is super tactical with detailed numbers, Mr. Derrick Reimer from SavvyCal, many of you may know him from
+the Art of Product Podcast. We'll be coming on to
+talk about his launch. He did just two months back. And the results from that,
+which netted him well, I think it's a few thousand in MRR. Like it's a non-trivial
+amount of money, right? And that's one of the
+beauties of SaaS is that if you have a one-time sale
+app, you make a few thousand maybe $10,000 in sales, but
+then next, you know, the first and next month you have zero in revenue versus with SaaS these
+things that don't scale turn into flywheels because of their recurring
+revenue element of it. Our third is we're gonna be looking at Q&A sites like Quora, StackOverflow and the myriad of others that
+allow you to answer questions on topics related to your
+prospects and your customers. And we're gonna have Mike
+Ritchie on from SeekWell. Who's gonna talk about the approach that they took in the early days. And again, showing numbers and specific specific threads and how they worked. And this is something I've done. We've had several MicroConf
+and TinySeed founders do this and get almost to scale
+with just that approach. Next thing we'll be talking about is SEO for your documentation. And this is just a screenshot
+of SavvyCal's Help docs 'cause they look attractive but we're gonna have Natalie Luneva on, who is gonna be talking about some things that she has done for I believe it's for
+clients, and I'm not sure if they've done it for themselves as well but it's doing organic
+optimization on their help docs so that they rank for
+questions and answers and topics that your
+customers are searching for. So this is one of those flywheel ones. And finally, this is a partnerships we're gonna be talking with Leo, the co-founder of Lexgo. And they struck up a bunch of partnerships that cause they're legal software to help people put together
+for startups in South America and Latin America help them
+put together easy, you know legal docs pretty simply. And they went to several accelerators and were able to get
+partnerships with them. And he's gonna be talking
+about what they did there how they did it. And so you'll notice we have
+a mix of, remember early on. I said, do things that don't scale, but keep an eye out for things that do. And a couple of those aren't
+gonna scale infinitely. And a couple of them are
+kind of, one of us is both and one is, or a couple are things that do scale really well, please, if we're not connected on Twitter, I'm @robwalling. And I'd love it, if you'd
+tweet some stuff out cause we're, you know, we're
+really wanna extend the reach of MicroConf and reach as many
+founders as we can #microconf and @microconf (upbeat music)
