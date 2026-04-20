@@ -1,25 +1,77 @@
-# fr# My First Cursor + AI Setup
+# B2B SaaS YouTube Content Strategy: Research Repository
 
-## Tools I Installed
+## Topic
+**YouTube Content Strategy for B2B SaaS**
 
-- **Cursor IDE** — a code editor that has AI built right into it, honestly way better than I expected
-- **Claude Code** (Cursor Extension) — an AI assistant by Anthropic that helps me write and understand code
-- **Codex** (Cursor Extension) — another AI-powered tool that makes coding feel a lot less intimidating
+How do the best B2B SaaS practitioners actually use YouTube as a growth and marketing channel? This research collects primary source material, including video transcripts and LinkedIn posts, from 10 experts who practice what they teach.
 
-## Steps I Completed
+---
 
-1. Downloaded and installed Cursor IDE from cursor.com
-2. Opened the Extensions panel and searched for "Claude Code" — installed it without any issues
-3. Did the same for "Codex" — also smooth
-4. Created a public GitHub repository to store my project
-5. Opened the repository in Cursor by cloning it through the terminal
-6. Wrote this README file to document everything I went through
+## Why This Topic
+YouTube is increasingly central to B2B SaaS go-to-market strategy, but most advice on the topic is generic. This research focuses on practitioners with real SaaS track records, to surface patterns and frameworks that are grounded in actual results.
 
-## Issues I Ran Into (and How I Fixed Them)
+---
 
-- **Git wasn't installed on my computer** — when I tried to run `git clone` in the terminal, 
-  Cursor threw an error saying it didn't recognize the `git` command. 
-  I fixed it by downloading Git from git-scm.com, installing it, and restarting Cursor. After that, everything worked fine.
+## Expert Selection
+10 experts were selected based on one core criterion: they must actively practice what they teach. That means founders who have used content to grow real SaaS companies, CMOs who have executed YouTube strategies at scale, or specialists whose work is directly tied to measurable outcomes.
 
-- **Couldn't open the terminal with Ctrl + `** — the shortcut just didn't work on my keyboard. 
-  I got around it by going to View → Terminal from the menu bar instead. Simple fix once I knew where to look.
+See [`research/sources.md`](research/sources.md) for the full list with annotations.
+
+**Experts covered:**
+1. Rob Walling (MicroConf)
+2. Jason Lemkin (SaaStr)
+3. Ross Simmonds (Foundation Marketing)
+4. Rand Fishkin (SparkToro)
+5. Wes Bush (ProductLed)
+6. Nathan Barry (Kit / ConvertKit)
+7. Denis Shatalin
+8. Dave Gerhardt (Exit Five)
+9. Chima Mmeje (Moz)
+10. Noah Kagan (AppSumo)
+
+---
+
+## Repository Structure
+
+```
+research/
+  sources.md                    # All 10 experts with links, dates, and annotations
+  youtube-transcripts/          # Transcripts organized by expert
+    rob-walling/
+    jason-lemkin/
+    ross-simmonds/
+    rand-fishkin/
+    wes-bush/
+    nathan-barry/
+    denis-shatalin/
+    dave-gerhardt/
+    chima-mmeje/
+    noah-kagan/
+  linkedin-posts/               # LinkedIn posts organized by author
+  other/                        # Any additional reference materials
+fetch_transcripts.py            # Script used to collect YouTube transcripts via API
+```
+
+---
+
+## Data Collection Method
+
+**YouTube Transcripts**
+Collected using the `youtube-transcript-api` Python library, which fetches publicly available captions directly from YouTube without requiring an API key. Videos were selected based on relevance to B2B SaaS content strategy.
+
+```bash
+pip install youtube-transcript-api
+python fetch_transcripts.py
+```
+
+**LinkedIn Posts**
+Collected manually by visiting each expert's LinkedIn profile and saving recent posts relevant to content strategy, YouTube, and B2B SaaS marketing.
+
+---
+
+## Commit Log
+Commits are made incrementally as material is collected, not in one batch at the end.
+
+---
+
+*Research started: April 2026*
